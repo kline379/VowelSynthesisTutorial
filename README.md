@@ -6,7 +6,7 @@ Our tutorial will cover speech synthesis, which corresponds to Chapter 8 in the 
 ### VowelSynthTutorial.pdf
 A copy of the tutorial.
 
-### CompletedTutorial.inpy
+### CompletedTutorial.ipynb
 A completed version of the tutorial in a jupyter notebook.
 
 ### Overview.pdf
